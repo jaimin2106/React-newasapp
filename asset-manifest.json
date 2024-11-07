@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-newasapp/static/css/main.da18baf0.css",
+    "main.js": "/React-newasapp/static/js/main.d762069a.js",
+    "static/js/453.b2157c12.chunk.js": "/React-newasapp/static/js/453.b2157c12.chunk.js",
+    "index.html": "/React-newasapp/index.html",
+    "main.da18baf0.css.map": "/React-newasapp/static/css/main.da18baf0.css.map",
+    "main.d762069a.js.map": "/React-newasapp/static/js/main.d762069a.js.map",
+    "453.b2157c12.chunk.js.map": "/React-newasapp/static/js/453.b2157c12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da18baf0.css",
+    "static/js/main.d762069a.js"
+  ]
+}
